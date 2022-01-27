@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600;700&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+#highlighted-package{
+    background-color: #3F87F5;
+    position: relative;
+    top: -30px;
+    box-shadow: 10px 10px 5px rgb(157, 174, 190);
+}
+.highlighted-button{
+    background-color: #FFFFFF;
+    color: #3F87F5;
+}
+.happy-customer{
+    box-shadow: 10px 10px 5px rgb(157, 174, 190);
+}
+footer{
+    height: 280px;
+}
